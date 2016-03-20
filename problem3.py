@@ -22,4 +22,4 @@ def find_primes_to(final):
     print pfactors
 
 
-find_primes_to(600851475143)
+find_primes_to(13195)
