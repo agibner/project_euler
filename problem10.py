@@ -6,12 +6,12 @@ def prime(number):
 			return False
 	return True
 
-num = 2;
-sum = 0;
+num = 3;
+sum = 2;
 below = input("Sum of primes below: ")
 
 while num<below:
 	if prime(num):	
 		sum = sum+num
-	num = num+1
+	num = num+2
 print sum
