@@ -7,3 +7,4 @@
 *Problem 4: Largest Pallindrome Product
 *Problem 5: Least Common Multiple
 *Problem 6: Sum square difference
+*Problem 7: 10001st Prime
