@@ -8,3 +8,4 @@
 *Problem 5: Least Common Multiple
 *Problem 6: Sum square difference
 *Problem 7: 10001st Prime
+*Problem 12: Highly Divisible Tri Num
